@@ -1,0 +1,171 @@
+body {
+  margin: 0px;
+  font-family: Poppins;
+}
+
+.header {
+  background-color: #f4afa4;
+  padding: 19px 100px 20px 100px;
+  justify-content: center;
+  display: flex;
+}
+
+.main {
+  display: inline;
+  font-size: 24px;
+  width: 231px;
+  height: 36px;
+  color: #fff;
+  margin-right: 682px;
+}
+
+.nav {
+  float: right;
+  display: flex;
+  align-items: center;
+}
+
+.navi {
+  margin-left: 35px;
+  font-size: 18px;
+  text-decoration: none;
+  color: #fff;
+}
+
+a:hover {
+  color: #000;
+}
+
+.hero {
+  justify-content: center;
+  display: flex;
+  margin-left: 167px;
+  margin-right: 164px;
+}
+
+.satu {
+  margin-top: 80px;
+  margin-bottom: 0px;
+}
+
+.alo {
+  margin-left: 152px;
+  padding-top: 165px;
+}
+
+.hi {
+  font-size: 44px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.nama {
+  font-size: 48px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: #f4afa4;
+}
+
+.add {
+  font-size: 18px;
+  margin-top: 21px;
+  margin-bottom: 20px;
+  text-align: justify;
+  max-width: 700px;
+}
+
+.about {
+  font-size: 24px;
+  color: #fff;
+  margin-bottom: 0px;
+  padding: 5px 15px 5px 15px;
+  background-color: #f4afa4;
+  border-radius: 40px;
+  width: 116px;
+}
+
+.intro {
+  text-align: center;
+  justify-content: center;
+  padding-top: 80px;
+}
+
+.get {
+  font-size: 36px;
+  margin-top: 0px;
+}
+
+.halo {
+  font-size: 18px;
+}
+
+.find {
+  font-size: 24px;
+  line-height: 36px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  font-style: strong;
+}
+
+.interest {
+  margin-top: 80px;
+  background-color: #f4afa4;
+  text-align: center;
+  justify-content: center;
+  height: 548px;
+}
+
+.my {
+  font-size: 36px;
+  color: #fff;
+  margin-bottom: 30px;
+  padding-top: 39px;
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+}
+
+.web {
+  float: left;
+  background-color: rgb(252, 255, 61, 0.6);
+  width: 246px;
+  height: 300px;
+  border-radius: 10%;
+  color: #fff;
+  margin-left: 301px;
+}
+
+.speak {
+  float: left;
+  background-color: rgb(255, 255, 255, 0.6);
+  width: 246px;
+  height: 300px;
+  border-radius: 10%;
+  margin-left: 50px;
+}
+
+.talk {
+  float: left;
+  background-color: rgb(255, 255, 255, 0.6);
+  width: 246px;
+  height: 300px;
+  border-radius: 10%;
+  margin-left: 50px;
+  margin-right: 301px;
+}
+
+.mine {
+  font-size: 24px;
+}
+
+.talk .mine {
+  width: 75%;
+  text-align: center;
+  display: inline-block;
+}
+
+.footer {
+  height: 865px;
+}
